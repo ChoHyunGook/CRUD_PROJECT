@@ -4,11 +4,13 @@
      border: 1px solid #ccc;
      border-radius: 4px;
      resize: vertical;
+     margin: auto; 
    }
    
    .label {
      padding: 12px 12px 12px 0;
      display: inline-block;
+     
    }
    
    .inputSubmit {

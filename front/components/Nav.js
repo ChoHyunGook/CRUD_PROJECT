@@ -23,7 +23,7 @@ const basicSettings = {
     subTitles: [
     "게시판 글쓰기","게시판 리스트",'게시글 수정','게시글 삭제'
     ],
-    urls: ["/board/write", "/board/List", '/board/update','/board/remove']
+    urls: ["/board/write", "/board/list", '/board/update','/board/remove']
   };
 
 export function Nav(){

@@ -5,15 +5,15 @@ export function Home() {
         <> <header className = {styles.w3DisplayContainer+ ' ' + styles.w3Content+ ' ' + styles.w3Center} style = {{maxWidth:"1500px"}}> 
         <img
             className={styles.w3Image}
-            src="https://www.w3schools.com/w3images/photographer.jpg"
+            src="https://search.pstatic.net/sunny/?src=https%3A%2F%2Fi.pinimg.com%2F736x%2F50%2Fef%2F65%2F50ef65b8af841eb8638282f9dfc8f008--pokemon-snorlax-cute-pokemon.jpg&type=sc960_832"
             alt="Me"
-            width="1500"
-            height="600"/>
+            width="900"
+            height="400"/>
         <div
             className={styles.w3DisplayMiddle + ' ' + styles.w3PaddingLarge + ' ' + styles.w3Border + ' ' + styles.w3Wide + ' ' + styles.w3TextLightGrey + ' ' + styles.w3Center}>
-            <h1 className={styles.w3HideMedium+ ' ' +styles.w3HideSmall+ ' ' +styles.w3Xxxlarge}>JANE DOE</h1>
-            <h5 className={styles.w3HideLarge} style={{whiteSpace:"nowrap"}}>JANE DOE</h5>
-            <h3 className={styles.w3HideMedium+ ' ' +styles.w3HideSmall}>PHOTOGRAPHER</h3>
+            <h1 className={styles.w3HideMedium+ ' ' +styles.w3HideSmall+ ' ' +styles.w3Xxxlarge}>DANIEL</h1>
+            <h5 className={styles.w3HideLarge} style={{whiteSpace:"nowrap"}}>Daniel Cho</h5>
+            <h3 className={styles.w3HideMedium+ ' ' +styles.w3HideSmall}>Software Developer</h3>
         </div>
         <div
             className={styles.w3Bar+ ' ' +styles.w3LightGrey+ ' ' +styles.w3Round+ ' ' +styles.w3DisplayBottommiddle+ ' ' +styles.w3HideSmall}
